@@ -1,0 +1,49 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+	background-color: #fef;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.image {
+	width: 100%;
+	border: 2px ridge #bbb;
+	box-shadow: 5px 5px 5px #bbb;
+	padding: 1px;
+
+}
+
+.small-img {
+	width: 100%;
+	border: 2px outset #bbb;
+	box-shadow: 3px 3px 5px #bbb;
+	border-radius: 20%;
+}
+
+hr {
+    border: none;
+    height: 5px;
+    /* Set the hr color */
+    color: #bbb; /* old IE */
+    background-color: #888; /* Modern Browsers */
+}
+
+p {
+	text-decoration: underline;
+}
